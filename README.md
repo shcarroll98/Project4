@@ -36,7 +36,7 @@ R^2 = .24       RMSE = .029
 Using this decision tree model, revenue growth can only be used to explain 24% of the variance in stock price growth and volatility. The model only explains a small portion of variability in stock returns.
 
 ## A Closer Look - The Tech Sector
-
+![bar graph](https://github.com/shcarroll98/Project4/blob/main/Graphs/price%20diff.png)
 ## Double click: Electronic gaming and multimedia
 An RMSE of 0.38377 indicates that, on average, the difference between the predicted values and the actual values is about 0.38377 units. A RMSE of 0.38377 indicates a moderate level of error.
 
