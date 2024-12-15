@@ -1,4 +1,4 @@
-# Project4
+# Project4 S&P STOCK GROWTH PREDICTORS
 S&P STOCK GROWTH PREDICTORS
 TEAM MEMBERS: Chris Wiggs, Shannon Carroll, Trevor Lochan, Khadija Collymore, Samantha Panzini-Taysi
 
